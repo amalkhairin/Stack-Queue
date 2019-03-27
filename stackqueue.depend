@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553700383 source:f:\amal\semester_2\std\stackqueue\main.cpp
+	<iostream>
+	"stq.h"
+	"stq.cpp"
+
+1553701564 f:\amal\semester_2\std\stackqueue\stq.h
+	<iostream>
+
+1553701684 f:\amal\semester_2\std\stackqueue\stq.cpp
+	"stq.h"
+
